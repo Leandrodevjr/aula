@@ -1,0 +1,32 @@
+TODO COMANDO NO GIT BASH COMEÇA COM GIT
+
+
+---O que o git init faz?
+Cria um repositório Git vazio na pasta atual.
+
+Gera uma subpasta oculta chamada .git, onde o Git armazena todo o histórico de versões, configurações e metadados.
+
+
+git init transforma minha pasta em um repositório !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+git add .
+git commit -m "Minhas alterações" ----- Informa as alterções !!!!
+
+
+
+
+
+
+
+git commit -a -m "primeira mensagem"   comando para commitar
+
+git add.
+
+
+git status ---- mostra as alterações feitas no meu arquivo
+
+
+
+---------------------------------------------------------------------------------------------------------
+git add "nome do arquivo faz para o git rastrear meu arquivo"
+
